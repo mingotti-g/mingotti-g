@@ -11,23 +11,30 @@ FORMAÇÃO ACADÊMICA
 Colegio Estdual São Cristóvão, 1 ano do enino medio
 
 
-PROJETOS (será um bom diferencial, principalmente caso não tenha experiência profissional)
+PROJETOS 
 Nome do projeto 1
-Descrição: escrever brevemente sobre o seu projeto, quais foram as tecnologias utilizadas, como foi feito, quais foram os desafios.
+Tenho alguns projetos no Mblock por causa do curso de robotica, usei alguns sites, ferramentas manuais para fazer.
 
 Nome do projeto 2
-Descrição: escrever brevemente sobre o seu projeto, quais foram as tecnologias utilizadas, como foi feito, quais foram os desafios.
+Tenho 21 projetos no scratch por conta de um curso que se chamav edutech.
 
-Você poderá adicionar seu portfólio nesta seção, por exemplo, seu perfil no GitHub. 
+• https://github.com/mingotti-g link do meu perfil do github. 
+• https://scratch.mit.edu/users/guilherme1acesc/ link do meu perfil do scratch
+• https://planet.mblock.cc/user link do meu peril no Mblock
 
-TECNOLOGIAS (aqui você lista as tecnologias, ferramentas e linguagens que você conhece)
-    • Linguagem I
-    • Linguagem II
-    • Ferramenta I …
-
+TECNOLOGIAS
+ • Português (linguagem)
+ • Espanhol (linguagem)
+ • Github (ferramentas)
+ • Mblock (ferramentas)
+ • Scratch (ferramneta)
+ 
 CURSOS | CERTIFICAÇÕES
-Nome do curso - Lugar onde fez - (ano de início - ano fim)
+*Robótica  (2022 - 2022)
+*Espanhol (intermediário)
+*Ingles (iniciante)
+*Edutech (2022 - 2022)
 
 IDIOMAS
-falo o português fluente e flo espanhol (estou quase terminando o nivel intermediário do espnhaol.
-Idioma - lugar onde fez (ano de início - ano fim)
+Falo o português fluente e falo espanhol (estou quase terminando o nivel intermediário do espnhaol e vou fazer o nivel avançado).
+Fiz no Colegio Estadual São Cristóvão (iniciei no ano de 2022 - eu vou terminar tudo em 2025)
