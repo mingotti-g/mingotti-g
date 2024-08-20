@@ -20,7 +20,7 @@ Tenho 21 projetos no scratch por conta de um curso que se chamav edutech.
 
 • https://github.com/mingotti-g link do meu perfil do github. 
 • https://scratch.mit.edu/users/guilherme1acesc/ link do meu perfil do scratch
-• https://planet.mblock.cc/user link do meu peril no Mblock
+• https://planet.mblock.cc/user link do meu perfil no Mblock
 
 TECNOLOGIAS
  • Português (linguagem)
